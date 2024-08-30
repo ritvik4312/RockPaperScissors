@@ -1,0 +1,63 @@
+body{
+  background-color: #F172A1;
+  color: #F0EBF4;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 325px;
+  margin-top: 100px;
+}
+
+.title{
+  font-size: 50px;
+  margin-left: 210px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.move-icons{
+  height: 100px;
+}
+
+.button-move{
+  height: 200px;
+  width: 200px;
+  border-radius: 50px;
+  background-color: #E64398;
+  border-color: #F0EBF4;
+  border-width: 5px;
+  border-style: double;
+  margin-left: 50px;
+  cursor: pointer;
+}
+
+.result{
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 50px;
+  margin-left: 342px;
+}
+ 
+.score{
+    margin-top: 50px;
+    margin-left: 300px;
+  }
+
+.reset-score{
+  background-color: white;
+  border: none;
+  font-size: 15px;
+  padding: 8px 15px;
+  cursor: pointer;
+  margin-left: 300px;
+}
+
+.auto-play{
+  background-color: white;
+  border: none;
+  font-size: 15px;
+  padding: 8px 15px;
+  cursor: pointer;
+}
+
+.js-moves{
+  margin-left: 100px;
+}
+
